@@ -115,7 +115,7 @@ out
 gen
 
 node_modules
-/node_modules/
+/node_modules/**
 
 ./downloaded/**
 ./links/**
